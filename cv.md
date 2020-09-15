@@ -49,9 +49,10 @@ render(<App />, document.getElementById('root'));
 ### Education
 
 - **Faculty of Economics and Management -** Omsk State Technical University, Russian Federation
+  - September 2000 - July 2005
 
-  ### Language competencies
+### Language competencies
 
-* Russian: native language
+- Russian: native language
 
-* English: intermediate (B1)
+- English: intermediate (B1)
