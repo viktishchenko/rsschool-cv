@@ -5,7 +5,7 @@ Telegram · Omsk, Russian Federation · web22pro@gmail.com
 
 ### Summary
 
-Давно выяснено, что при оценке дизайна и композиции читаемый текст мешает сосредоточиться. Lorem Ipsum используют потому, что тот обеспечивает более или менее стандартное заполнение шаблона, а также реальное распределение букв и пробелов в абзацах, которое не получается при простой дубликации.
+Hello, I’m a Viktor, web-developer based in Omsk. I have some experience in designing, building and customizing websites. Currently studying «JavaScript/Front-end» at RS School.
 
 ### Skills
 
