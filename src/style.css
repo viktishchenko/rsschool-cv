@@ -1,5 +1,4 @@
 .content {
-  max-width: 1024px;
   font-family: 'Roboto', sans-serif;
   border: 1px solid aliceblue;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.12);
@@ -25,6 +24,9 @@
   border-bottom-left-radius: 0px;
   color: white;
   margin-bottom: 20px;
+}
+.light-c {
+  color: #7d7d7d;
 }
 .dev-info {
   font-size: 42px;
@@ -171,6 +173,17 @@ a:hover {
 }
 .color {
   color: #7d7d7d;
+}
+
+@media only screen and (max-width: 768px) {
+  .content {
+    border: none;
+    box-shadow: none;
+  }
+  .home .img-border {
+    height: 280px;
+    width: 280px;
+  }
 }
 
 @media only screen and (max-width: 575px) {

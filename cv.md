@@ -9,13 +9,13 @@ Hello, I’m a Viktor, aspiring web developer based in Omsk. I have some experie
 
 ### Skills
 
-- Languages: HTML, CSS, Javascript (basics), PHP (basics);
+- Languages: HTML, CSS, Javascript;
 - Web libs: Bootstrap, jQuery, Materialize;
 - Responsive design;
 - Web Dev tools: Gulp, npm;
 - VCS: Git basics;
-- DB: MySQL, MongoDB Atlas (basic set of queries);
-- Graphic editors: ADOBE Photoshop, CorelDRAW, Google Web Designer;
+- DB: MySQL, PostgreSQL, MongoDB Atlas (basic set of queries);
+- Graphic editors: ADOBE Photoshop/After Effects, Figma, Google Web Designer;
 - Search engine optimization
 
 ### Code Example
@@ -50,9 +50,12 @@ render(<App />, document.getElementById('root'));
 
 - **Faculty of Economics and Management -** Omsk State Technical University, Russian Federation
   - September 2000 - July 2005
+- **HTML Academy**
+- **Udemy**
+- **RS School**
 
 ### Language competencies
 
 - Russian: native language
 
-- English: intermediate (B1)
+- English: Pre-intermediate level (A2+). Study english with app “Easy Lern English”, “Duolingo”.
