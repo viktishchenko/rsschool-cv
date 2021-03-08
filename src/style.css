@@ -131,9 +131,13 @@ a:hover {
   color: black;
 }
 .about-tag ul li span {
-  border: 1px solid #2196f3;
+  border: 1px solid #aeaeae;
   padding: 4px 10px;
   border-radius: 4px;
+}
+.about-tag ul li span:hover {
+  background-color: #fbfbfb;
+  cursor: default;
 }
 .btn {
   transition: color 0.3s ease;
@@ -173,6 +177,39 @@ a:hover {
 }
 .color {
   color: #7d7d7d;
+}
+
+footer {
+  margin: 30px auto 15px;
+  background-color: #f4f4f4;
+  height: 60px;
+  display: flex;
+  align-items: center;
+}
+.display-inherit {
+  display: inherit;
+}
+.bottom {
+  margin: auto 10px;
+}
+.rs-logo {
+  width: 80px;
+}
+.utube-logo {
+  width: 40px;
+}
+.git-logo {
+  width: 80px;
+}
+time {
+  margin: 0 10px;
+}
+.align-center {
+  align-items: center;
+  justify-content: space-between;
+}
+.footer-coryright {
+  text-align: end;
 }
 
 @media only screen and (max-width: 768px) {
@@ -216,5 +253,17 @@ a:hover {
   }
   .home-padding {
     padding: 60px 0;
+  }
+}
+
+@media only screen and (max-width: 370px) {
+  .rs-logo {
+    width: 50px;
+  }
+  .utube-logo {
+    width: 30px;
+  }
+  .git-logo {
+    width: 50px;
   }
 }
